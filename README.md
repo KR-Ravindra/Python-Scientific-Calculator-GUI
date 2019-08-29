@@ -1,4 +1,4 @@
-# Welcome, this is a project implementing GUI and Some random libraries of Python.
+# Hey! This is a project implementing tinkter and math libraries of Python to achieve a model of Scientific Calculator.
 ---
 
 ```
@@ -203,5 +203,5 @@ root.mainloop()
 
 
 ```
-
+---
 You can reach me at [LinkedIn](https://www.linkedin.com/in/krajaravindra)
