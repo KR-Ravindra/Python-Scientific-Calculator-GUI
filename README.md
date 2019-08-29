@@ -1,7 +1,7 @@
-#Welcome, this is a project implementing GUI and Some random libraries of Python.
+# Welcome, this is a project implementing GUI and Some random libraries of Python.
 ---
 
-'
+`
 
 from tkinter import *
 
@@ -202,6 +202,6 @@ Button(root,text="=",width=10,bg="grey",fg="white",command=evaluate).grid(row=7,
 root.mainloop()
 
 
-'
+`
 
 You can reach me at [LinkedIn](https://www.linkedin.com/in/krajaravindra)
